@@ -17,19 +17,22 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+-yyy
 
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Bold text** and _Italiccode_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+```
 
+```
 ### Jekyll Themes
-
+**I'm ASriDatta
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ASriDatta/personal-website/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
